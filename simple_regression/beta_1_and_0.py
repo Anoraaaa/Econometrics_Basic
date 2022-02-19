@@ -32,6 +32,7 @@ class Beta:
     def beta_0(self):
         beta_1 = self.beta_1()
         return self.meany() - self.meanx()*beta_1
+    pass
 
 
 
